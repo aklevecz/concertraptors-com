@@ -22,7 +22,7 @@
 
     const profile = {
         name: "CONCERT RAPTOR TAKEOVER 🌸 FAIGHT COLLECTIVE",
-        // bio: "Full-stack developer | Open source enthusiast | Tech writer",
+        bio: "Feburary 8th - 7pm to 12am - Music | Interactive Art | Community",
         avatar: "/raptor-svg.svg"
     };
 </script>
