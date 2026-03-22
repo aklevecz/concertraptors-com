@@ -2,17 +2,17 @@
 
 ## _The_Artifact_
 
-It all starts at the ticket __ The artifact that we collectively accept as the entry point to the experience // We believe it is concrete, but really it is a product of reification that establishes control, and creates a cascade of economic effects to feed a system of ~ behavioral manipulation ~
+It all starts at the ticket __ The artifact that we collectively accept as the entry point to the experience // We believe it is concrete, but really it is a product of reification that establishes control // creating a cascade of economic effects to feed a system of ~ behavioral manipulation ~
 
-The queue to purchase // the synthetic scarcity // the line you stand in // the scanner that may or may not do anything \\ and the barriers that contain you, are all fabricated and have little relation to concrete rules, and merely establish control. It is a ritual that you unconsciously abide by, where there is little force containing you, only collective compliance. In fact ~ there are people who walk through these barriers like ghosts, and instead of questioning the nature of the //environment// we accept a hierachy devoid of transparency and logic.
+The queue to purchase // the synthetic scarcity // the line you stand in // the scanner that may or may not do anything \\ and the barriers that contain you ~ are all fabricated and have little relation to real rules, merely functioning as an arm to establish control. It is a ritual that you unconsciously abide by, where the force containing you is quite weak, but collective compliance prevails over resistance. In fact ~ there are people who walk through these barriers like ghosts, and instead of questioning the nature of the //environment// we accept a hierachy devoid of transparency and logic.
 
-Even the enforcers become not much more than NPCs of the system. They are given money and a schema to follow ((purple means access)) and they follow without critical thought. ~~ They mirror the same compliance we participate in ~~
+Even the enforcers become not much more than NPCs of the system. They are given money and a schema to follow ((purple means access)) and they follow without critical thought. ~ They mirror the same compliance we participate in ~
 
 ## _Perceived_Value_
 
 The ticket // the wristband // colors ~ we accept these as the truths that give us the experience and from that end they have ~value~ In fact the more layers that are created ((VIP)) the more we focus on this value.
 
-Thus when we acquire this artifact of entry, we are confronted with a choice::: is the experience more valuable than the acquisition of the artifact? It is impossible not to consider choosing the artifact ~ but every time you do ~ you reinforce the values of the system that actively devalue the experience.
+Thus when we acquire the artifact of entry, we are confronted with a choice::: is the experience more valuable than the artifact itself? It is impossible not to consider choosing the artifact ~ but every time you do ~ you reinforce the values of the system that actively devalue the experience.
 
 The answer to that question has many dependencies from either side. Assuming one loves music, there is a case where the //artifact// is invaluable, and inversely it can have none. Generally this is the spectrum we operate on, which is encouraged by the machine of ~control~
 
@@ -50,7 +50,7 @@ From that end ~ helping build the collective experience of music as a fan is all
 
 And as much of this hinges on ~love~ and ~appreciation~ for your fellow fan ~ it is also important that we channel collective disdain for the figures who depend on your continued \\confusion\\
 
-The creators of these systems // Ticketmaster // StubHub // Live Nation // AXS // all must be held accountable and ||dismantled|| Not through force ~ but by refusing to engage and building systems that make them ~obsolete~
+The creators of these systems // Ticketmaster // StubHub // Live Nation // AXS // all must be held accountable and ||dismantled|| the first step being refusing to engage and conversely building systems that make them ~obsolete~
 
 They are not needed in the slightest as all of their infrastructure could be \\artist_owned\\ and \\controlled\\ If we all came together and built better systems, their stranglehold could be dissolved ||overnight||
 
