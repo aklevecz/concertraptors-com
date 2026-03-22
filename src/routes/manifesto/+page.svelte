@@ -99,7 +99,7 @@
         </p>
 
         <p>
-            You discover that the system attempts to control the experience of music because it is ||invaluable|| And that when you ignore its economic value, you create a connection with a ~kindred spirit~ who will shift your focus from the //artifact// to the experience around it.
+            You discover that the system attempts to control the experience of music because it is ||invaluable|| And that when you ignore its economics, you create a connection with a ~kindred spirit~ who will shift your focus from the //artifact// to the experience around it.
         </p>
 
         <p>
