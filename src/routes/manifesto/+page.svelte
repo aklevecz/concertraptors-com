@@ -15,7 +15,7 @@
 
     <section>
         <p class="lede">
-            Music belongs to us ~ and it is time to burn down the structures that tell us ||otherwise||
+            the Music experience belongs to us ~ and it is time to burn down the structures that tell us ||otherwise||
         </p>
     </section>
 
