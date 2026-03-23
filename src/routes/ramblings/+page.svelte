@@ -1,14 +1,14 @@
 <script>
     import { marked } from 'marked';
-    import manifestoRaw from './manifesto.md?raw';
+    import ramblingsRaw from './manifesto.md?raw';
 
-    const html = marked(manifestoRaw);
+    const html = marked(ramblingsRaw);
 </script>
 
 <svelte:head>
-    <title>MANIFESTO | CONCERT RAPTORS</title>
-    <meta name="description" content="The Concert Raptors Manifesto. Music belongs to us." />
-    <meta property="og:title" content="MANIFESTO | CONCERT RAPTORS" />
+    <title>RAMBLINGS | CONCERT RAPTORS</title>
+    <meta name="description" content="Concert Raptors Ramblings. Music belongs to us." />
+    <meta property="og:title" content="RAMBLINGS | CONCERT RAPTORS" />
     <meta property="og:description" content="Music belongs to us, and it is time to burn down the structures that tell us otherwise." />
     <meta property="og:image" content="https://concertraptors.com/ogimage.png" />
 </svelte:head>
@@ -16,7 +16,6 @@
 <article>
     <header>
         <a href="/"><img src="/raptor-svg.svg" alt="Concert Raptors" class="logo" /></a>
-        <h1>MANIFESTO</h1>
     </header>
 
     <div class="content">
@@ -53,15 +52,6 @@
 
     .logo:hover {
         opacity: 0.7;
-    }
-
-    h1 {
-        font-size: clamp(2.5rem, 8vw, 5rem);
-        font-weight: 900;
-        letter-spacing: 0.08em;
-        margin: 0;
-        line-height: 1;
-        color: #fff;
     }
 
     .content :global(h2) {
