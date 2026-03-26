@@ -1,45 +1,109 @@
+<script>
+    import { marked } from 'marked';
+    import ramblingsRaw from './manifesto.md?raw';
+
+    const html = marked(ramblingsRaw);
+</script>
+
 <svelte:head>
     <title>CONCERT RAPTORS</title>
-    <meta name="description" content="Concert Raptors est. 2015 - Music communities around the world with people connecting through the love for music they share." />
-    <meta name="keywords" content="music, concert, community, raptors" />
+    <meta name="description" content="Concert Raptors est. 2015 - Music belongs to us." />
     <meta property="og:title" content="CONCERT RAPTORS" />
-    <meta property="og:description" content="Music communities around the world with people connecting through the love for music they share." />
+    <meta property="og:description" content="Music belongs to us, and it is time to burn down the structures that tell us otherwise." />
     <meta property="og:image" content="https://concertraptors.com/ogimage.png" />
     <meta property="og:url" content="https://concertraptors.com" />
     <meta name="twitter:card" content="summary_large_image" />
 </svelte:head>
-<h2>CONCERT RAPTORS</h2>
-<div style="text-align: center;font-size:.65rem;">est. 2015</div>
-<img class="raptor" src="raptor-svg.svg" alt="raptor" />
-<ul>
-  <li><a href="https://www.facebook.com/groups/concertraptor">SF Community</a></li>
-  <li><a href="https://www.facebook.com/groups/1220577598063565/">LA Community</a></li>
-  <li><a href="https://www.facebook.com/groups/nycconcertraptors">NYC Community</a></li>
-  <li><a href="https://www.facebook.com/groups/concertraptorsdenver/">Denver Community</a></li>
-  <li><a href="https://www.facebook.com/groups/364578720993220">Berlin Community</a></li>
-  <li><a href="hhttps://www.facebook.com/groups/londonconcertraptors/">London Community</a></li>
-  <li><a href="https://www.facebook.com/groups/1107707530207340">SD Community</a></li>
-  <li><a href="https://www.facebook.com/groups/concertraptorspnw">PNW Community</a></li>
-  <li><a href="https://www.facebook.com/groups/515407205608480">Portland Community</a></li>
-  <li><a href="https://www.facebook.com/groups/657802501799891/">Austin Community</a></li>
-  <li><a href="https://www.facebook.com/groups/986315544842598/">ATL Community</a></li>
-</ul>
+
+<article>
+    <header>
+        <img src="/raptor-svg.svg" alt="Concert Raptors" class="logo" />
+    </header>
+
+    <div class="content">
+        {@html html}
+    </div>
+</article>
 
 <style>
-  h2 {
-    text-align: center;
-    margin-bottom: 0;
-  }
-  .raptor {
-    max-width: 100px;
-    margin: auto;
-    display: block;
-    padding: 1rem;
-  }
-  ul {
-    list-style-type: none;
-  }
-  li {
-    padding: 0.5rem;
-  }
+    article {
+        min-height: 100vh;
+        max-width: 680px;
+        margin: 0 auto;
+        padding: 4rem 2rem 6rem;
+        color: #e8e8e8;
+        background: #0a0a0a;
+        text-transform: lowercase;
+    }
+
+    :global(body) {
+        background: #0a0a0a !important;
+    }
+
+    header {
+        margin-bottom: 4rem;
+        text-align: center;
+    }
+
+    .logo {
+        width: 80px;
+        display: block;
+        margin: 0 auto 2rem;
+    }
+
+    .content :global(h2) {
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.25em;
+        text-transform: lowercase;
+        color: #ff3333;
+        margin-bottom: 1.5rem;
+        margin-top: 3rem;
+    }
+
+    .content :global(p) {
+        font-size: 1.1rem;
+        line-height: 1.8;
+        color: #e8e8e8;
+        margin: 0 0 1.5rem;
+        font-weight: 300;
+    }
+
+    .content :global(p:first-child) {
+        font-size: 1.4rem;
+        line-height: 1.7;
+        color: #fff;
+        font-weight: 400;
+    }
+
+    .content :global(hr) {
+        border: none;
+        margin: 4rem 0 2rem;
+    }
+
+    .content :global(hr + p) {
+        font-size: 1.6rem;
+        font-weight: 700;
+        color: #fff;
+        letter-spacing: 0.02em;
+        text-align: center;
+    }
+
+    @media (max-width: 640px) {
+        article {
+            padding: 2.5rem 1.25rem 4rem;
+        }
+
+        .content :global(p:first-child) {
+            font-size: 1.15rem;
+        }
+
+        .content :global(p) {
+            font-size: 1rem;
+        }
+
+        .content :global(hr + p) {
+            font-size: 1.3rem;
+        }
+    }
 </style>
